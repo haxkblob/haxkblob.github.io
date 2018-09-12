@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[垃圾邮件]]></title>
+    <url>%2F2018%2F09%2F12%2F%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6%2F</url>
+    <content type="text"><![CDATA[主要内容利用相对应的训练模型和训练方法对垃圾邮件数据集进行识别。 特征提取方法： 词袋模型、TF-IDF模型和词汇表模型 训练模型：朴素贝叶斯、SVM、MLP、CNN、RNN 步骤：对邮件本体进行特征提取，将特征输入到模型当中，提取信息，利用分类器分类，对比试验结果。 代码示例 结果图示 RNN: 结束语本文可以用于课程设计、毕业论文、课程大作业、实践项目学习的demo [注] 源码及报告请扫描下方公众号二维码获取。]]></content>
+      <categories>
+        <category>毕设、课设、大作业、练手项目</category>
+      </categories>
+  </entry>
+</search>
